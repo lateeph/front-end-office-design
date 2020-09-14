@@ -1,0 +1,87 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 20px;
+}
+
+th {
+	padding-top: 20px;-
+	font-size: 30px;
+	text-align: right;
+}
+
+.sign {
+	background-color: orange;
+	color: #FFFFFF;
+}
+
+.input {
+	background-color: #696969;
+	color: #FFFFFF;
+}
+
+.num {
+	background-color: #C0C0C0;
+}
+
+.logo {
+	height: 50px;
+  width: 50%;
+  position: relative;
+  left: 30px;
+  top: 5px;
+}
+
+.flags {
+	display: flex;
+}
+
+.flag {
+	width: 30px;
+	height: 30px;
+	padding: 5px;
+	position: relative;
+	left: 250px;
+	padding-top: 10px;
+}
+
+.about {
+	position: relative;
+	bottom: 19px;
+	right: 50px; 
+}
+
+.carousel-inner > .item > img {
+ 	width:2040px; 
+ 	height:360px; 
+}
+
+.plans {
+	margin-top: 50px; 
+}
+
+
+.thumbnail > img {
+	width:300px; 
+ 	height:200px;
+}
+
+.footer {
+	background-color: #00008B;
+}
+
+.invite {
+	color: #B8860B;
+}
+
+.location {
+	color: #ADFF2F;
+}
+
+.address {
+	color: #FFFFFF;
+}
